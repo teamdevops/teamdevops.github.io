@@ -32,7 +32,7 @@ The ideas/areas we dicussed upon were :
 2. MNNIT GPS Locator or MNNIT Maps
 3. Interconnected Hostel Network
 4. Advanced Attendance System
-5. MNNITOverflow (Concept based on [StackOverflow][StackOverflow] + [Piazza][Piazza]
+5. MNNITOverflow (Concept based on [StackOverflow][StackOverflow] + [Piazza][Piazza])
 6. Distributed Learning with session sharing and VoIP
 7. Social Network for MNNIT
 
