@@ -23,7 +23,7 @@ We were allotted our mentor to the project on JAN 9th, 2015. On 12th of Janurary
 
 To decide upon what we should develop as our project, we had a lot of discussion and brainstorming sessions, where each and every team member gave their ideas. We wanted our project to be related to our college and to be used on daily basis and by everyone. How we can ease the lives of the students as well as the faculty members. How the administrative process of our college can be more transparent and effecient. And as its the era of Internet and Smartphones, we wanted to make full use of smartphones and Internet to develop a full fledged product catering to need of our clients and to ease their living.
 
-To decide on which platform we will work, everybody shared there thoughts and expertise and came to a unanimous endpoint : [Android](www.android.com) as a platform for smartphones and relevant web application based on recent technologies (for ex. Google's [Polymer](www.polymer-project.org)).
+To decide on which platform we will work, everybody shared there thoughts and expertise and came to a unanimous endpoint : [Android][Android] as a platform for smartphones and relevant web application based on recent technologies (for ex. Google's [Polymer][Polymer]).
 
 After having a rigourous dicussion, considering all the aspects and scope, we came up with several ideas.
 The ideas/areas we dicussed upon were : 
@@ -32,7 +32,7 @@ The ideas/areas we dicussed upon were :
 2. MNNIT GPS Locator or MNNIT Maps
 3. Interconnected Hostel Network
 4. Advanced Attendance System
-5. MNNITOverflow (Concept based on [StackOverflow](www.stackoverflow.com) + [Piazza](www.piazza.com))
+5. MNNITOverflow (Concept based on [StackOverflow][StackOverflow] + [Piazza][Piazza]
 6. Distributed Learning with session sharing and VoIP
 7. Social Network for MNNIT
 
@@ -54,3 +54,7 @@ Now having decided all the ideas , we will meet Gore Sir and present our ideas t
 [avinashbawane]: https://www.github.com/avinashbawane
 [anil23416]: https://www.github.com/anil23416
 [icdcit]: http://www.icdcit.ac.in/
+[Android]: http://www.android.com
+[Polymer]: http://www.polymer-project.org
+[StackOverflow]: http://www.stackoverflow.com
+[Piazza]: http://www.piazaa.com
