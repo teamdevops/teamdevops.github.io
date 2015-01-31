@@ -4,8 +4,12 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+This blog is for the current project we are working upon. This will contain all the updates and discussions we have during the development process. We will also share what we feel relevant and informative to you people. 
+We are huge believer of open source, so throughout the dev processand furthur updates you can find the source code for our project on [GitHub](https://www.github.com/teamdevops).
 
-You can find the source code for the Jekyll new theme at: [github.com/jglovier/jekyll-new](https://github.com/jglovier/jekyll-new)
+This is our first project as a team and we are very excited.
 
-You can find the source code for Jekyll at [github.com/jekyll/jekyll](https://github.com/jekyll/jekyll)
+Team DevOps is very DEVotional! 
+
+For any queries and , feel free to contact us at : 
+[teamdevops.mnnit@gmail.com](mailto:teamdevops.mnnit@gmail.com)
