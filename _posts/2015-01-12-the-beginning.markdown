@@ -57,4 +57,4 @@ Now having decided all the ideas , we will meet Gore Sir and present our ideas t
 [Android]: http://www.android.com
 [Polymer]: http://www.polymer-project.org
 [StackOverflow]: http://www.stackoverflow.com
-[Piazza]: http://www.piazaa.com
+[Piazza]: http://www.piazza.com
