@@ -2,7 +2,7 @@
 layout: post
 title:  "We got it Zeroed!"
 date:   2015-01-20 08:04:48
-categories: first post
+categories: second post
 ---
 
 Hello Readers!
